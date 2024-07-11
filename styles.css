@@ -1,0 +1,171 @@
+
+
+/* Font set  */
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* banner styles */
+  .header{
+    background-image: url(./images/Hero-bg.png);
+    margin-bottom: 0px;
+  }
+.banner{
+  display: flex;
+  text-align: center;
+  width: 1440;
+  height: 652;
+}
+
+.heading-tiile{
+  color: #0D1321;
+  font-weight: 800;
+  font-size: 48px;
+}
+.banner-content{
+ margin: 26px 221px 45px;
+  
+}
+nav button a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.btn-title{
+  border-radius: 5px;
+  background-color: #0D1321;
+  color: #ffffff;
+  height: 40px;
+}
+
+  /* content details styles */
+  .section-content{
+    background-color: hwb(34 96% 1%);
+    border-radius: 30px;
+    padding: 80px 80px 0px;
+    margin: 80px 80px 80px;
+    
+  }
+  .content-center{
+    text-align: center;
+  }
+  .content-main{
+    text-align: left;
+    
+  }
+  .content-center{
+    margin-bottom: 70px;
+  }
+  .content-one{
+    display: flex;
+    justify-content: space-between;
+  }
+  .inter-one{
+    width: 600px;
+  }
+  
+  .content-two{
+    display: flex;
+    align-items: start;
+    margin-right: 356px;
+  }
+  .content-three{
+    display: flex;
+    justify-content: space-between;
+  }
+  .inter-three{
+    width: 600px;
+  }
+    h1 h2 p{
+      color: #0D1321;
+    }
+
+    /* sec-inpiration style  */
+    .sec-ins{
+      display: flex;
+      text-align: center;
+      
+      
+    }
+    .video{
+      width: 1140px;
+      padding-bottom: 30px;
+    }
+    .ins-content{
+      text-align: center;
+      
+     
+    }
+
+    /* my current target style */
+    .Current-all{
+      text-align: center;
+      padding: 20px;
+     border-radius: 30px;
+      
+    }
+  
+    .Current-hedcon{
+      
+    }
+    
+    .Current-parent{
+      display: flex;
+      text-align: left;
+      gap: 30px;
+      border-radius: 30px;
+      
+    }
+    .Current-content{
+      
+    }
+    .hml{
+      background-color: #EBEBEB;
+      border-radius: 20px;
+    }
+    .cs{
+      background-color: #C2BFBF;
+      border-radius: 20px;
+    }
+    .js{
+      background-color: #F5EFE1;
+      border-radius: 20px;
+    }
+
+    /* "need support" styles  */
+    .support-sec{
+      
+      
+    }
+    .feedback-parent{
+    text-align: center;
+    background-image: url(./images/handshake.jpg);
+    background-position: center;
+    padding-bottom: 30px;
+    }
+    .support-title{
+
+    }
+    .Support-description{
+
+    }
+    .feedback-input{
+
+    }
+    .submit-btn{
+
+    }
+
+
+    /* footer style  */
+    .footer-img{
+      display: flex;
+      justify-content: space-between;
+    }
+    footer{
+      margin-top: 30px;
+      padding-top: 15px;
+      background-color: #E2DEDE;
+    }
